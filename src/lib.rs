@@ -12,3 +12,5 @@ pub mod ethereum;
 
 mod zkey;
 pub use zkey::read_zkey;
+
+pub mod utils;
